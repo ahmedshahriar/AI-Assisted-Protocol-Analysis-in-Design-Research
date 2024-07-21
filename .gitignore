@@ -1,3 +1,15 @@
+# osx
+.DS_Store
+
+# files
+dataset/*
+
+# exception
+!dataset/convo-qs-eris-labelled-sample.xlsx 
+
+
+references.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
