@@ -1,0 +1,129 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Towards AI-Assisted Protocol Analysis in Design Research:
+  Automating Question Labelling with GPT-4 According to
+  Eris' (2004) Taxonomy
+message: >-
+  If you use this code repository, please cite the
+  associated paper using the metadata provided in this
+  repository
+type: software
+authors:
+  - given-names: Ahmed Shahriar
+    family-names: Sakib
+    email: assakib@uwaterloo.ca
+    affiliation: 'University of Waterloo, Canada'
+    orcid: 'https://orcid.org/0000-0001-8611-9616'
+  - given-names: Ada
+    family-names: Hurst
+    orcid: 'https://orcid.org/0000-0002-2481-8566'
+    affiliation: 'University of Waterloo, Canada'
+    email: ada.hurst@uwaterloo.ca
+  - given-names: Frank
+    family-names: Safayeni
+    email: fsafayeni@uwaterloo.ca
+    affiliation: 'University of Waterloo, Canada'
+identifiers:
+  - type: doi
+    value: 10.1007/978-3-031-71918-9_3
+    description: >-
+      Link to the published conference paper at Springer
+      Nature.
+  - type: url
+    value: 'https://rdcu.be/dYUou'
+    description: >-
+      Springer Nature SharedIt link for free access to the
+      full-text PDF of the conference paper.
+  - type: other
+    value: 978-3-031-71917-2
+    description: Print ISBN
+  - type: other
+    value: 978-3-031-71918-9
+    description: Online ISBN
+repository-code: >-
+  https://github.com/ahmedshahriar/AI-Assisted-Protocol-Analysis-in-Design-Research
+url: >-
+  https://link.springer.com/chapter/10.1007/978-3-031-71918-9_3
+abstract: >-
+  This study explores the potential of large language models
+  (LLM)-based tools, specifically GPT-4 -- a
+  state-of-the-art language processing model - to assist in
+  the analysis of verbal protocols of design. We focus on
+  Eris' taxonomy, a well-established framework that
+  classifies questions asked by participants in a
+  design-focused task according to three broad categories:
+  low-level, deep reasoning, and generative design
+  questions. Using a large dataset of pre-classified
+  questions from design review meetings, a series of
+  experiments test GPT-4's capability in the categorization
+  task and evaluate how different factors influence its
+  precision. Results indicate that GPT-4 matches performance
+  by human coders -- a promising result for design
+  researchers who can benefit from this tool with little
+  prior natural language processing expertise. Overall,
+  findings offer insights into the strengths and limitations
+  of LLMs in this context and suggest directions for future
+  research into the use of LLM-based tools in qualitative
+  analyses of design activity.
+keywords:
+  - design research
+  - protocol analysis
+  - Artificial Intelligence
+  - GPT-4
+  - Design cognition
+  - LLM
+  - Eris' taxonomy
+  - qualitative research
+  - Question classification
+  - NLP
+  - Automated question labeling
+  - text analytics
+  - Machine Learning
+  - DCC’24
+  - design computing
+license: Apache-2.0
+references:
+  - type: conference-paper
+    authors:
+      - given-names: Ahmed Shahriar
+        family-names: Sakib
+        email: assakib@uwaterloo.ca
+        affiliation: 'University of Waterloo, Canada'
+        orcid: 'https://orcid.org/0000-0001-8611-9616'
+      - given-names: Ada
+        family-names: Hurst
+        email: ada.hurst@uwaterloo.ca
+        affiliation: 'University of Waterloo, Canada'
+        orcid: 'https://orcid.org/0000-0002-2481-8566'
+      - given-names: Frank
+        family-names: Safayeni
+        email: fsafayeni@uwaterloo.ca
+        affiliation: 'University of Waterloo, Canada'
+    title: >-
+      Towards AI-Assisted Protocol Analysis in Design Research: Automating
+      Question Labelling with GPT-4 According to Eris' (2004) Taxonomy
+    collection-title: Design Computing and Cognition '24
+    year: 2024
+    month: 9
+    editors:
+      - given-names: John
+        family-names: Gero
+        email: jgero1@charlotte.edu
+        affiliation: 'University of North Carolina at Charlotte, USA'
+        orcid: 'https://orcid.org/0000-0001-9026-535X'
+    publisher:
+      name: Springer Nature Switzerland
+      address: 'Cham, Switzerland'
+    conference:
+      name: Design Computing and Cognition'24
+      location: Concordia University
+      city: Montreal
+      country: CA
+      date-start: '2024-07-07'
+      date-end: '2024-07-10'
+    start: 38
+    end: 55
+    doi: 10.1007/978-3-031-71918-9_3
